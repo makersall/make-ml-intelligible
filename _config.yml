@@ -1,0 +1,19 @@
+title: Making ML Intelligible
+author: Anders Schneiderman
+email: your-email@domain.com
+description:  Description of this site
+
+# Menu data for sitewide navigation
+navigation_links:
+  - name: About
+    link: 'about/'
+  - name: Concepts
+    link: 'concepts/'
+  - name: Resources
+    link: 'resources/'
+  - name: Blog
+    link: 'blog/'
+
+  # - name: Makers All
+  #   link: 'https://makersall.org/'
+
