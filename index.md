@@ -2,25 +2,20 @@
 title: Welcome to Making Machine Learning Intelligible!
 layout: content
 image: hand-paid-cans-36464-pxh2.jpg
-# image: toy-dinosaurs-1451431-pxh.jpg
-# image: chalk-many-818111-pxh.jpg
-# image: water-paints-1057934-pxh.jpg
-# image: cupcakes-reflection.jpg
-# image: boat-cooking.jpg
-# image: pretty-tools-1449015-pxh.jpg
 ---
+{Not sure what I want to say in the intro. Here's a quick-and-dirty first draft; I need to fix it up and shrink it. }
 
-[Over the past decade, the tools that let staff who aren't coders transform and analyze data have gotten more and more powerful. Even in machine learning and AI, "Auto ML" is just beginning to allow power users to do some work that only a few years ago required a highly skilled data scientist.  
+Machine learning is powerful, but right now almost no one understands it. In the past 10 years, there's been an incredible explosion of work. Things that only a handful of experts could do with months of work can now be taken care of by someone with a little programming experience and a handful of lines of code. And now we are seeing even more exciting stuff happening in the form of auto ML, which promises to take away some of the mindnumbing headaches of trying to figure out which model to use and how to tune it.
 
-But in the rush to build better tools, no one's addressing a major challenge: how can large organizations unleash this powerful tech without creating a hot mess? Because 
+At the same time, it's become increasingly clear that just treating machine learning and AI more generally like a black box isn't going to cut it. Far from being impartial, machine learning models can be incredibly biased.
 
-Based on [research at Makers All](https://toolkit.makersall.org) and decades of field experience, we're developing a solution called Data Chefs. It’s a framework for:
+But what's also becoming clear is that it's just too hard to understand.
 
-- Growing an organization's internal ecosystem to help power users flourish, using an iterative, Agile approach that racks up small, strategic wins while building towards larger victories
-- Building an ecosystem across organizations so they can share knowledge, pool resources, and collectively work to smooth the learning curve from beginner to power user to data scientist/engineer
-- Using this ecosystem across organizations to connect large organizations to the community, so communities can also benefit -- and in doing so, laying the groundwork to help communities from Harlem to Harlan County [benefit from the explosion of wealth](https://toolkit.makersall.org) that will be created by emerging tech over the next 20 years
+Making ML Intelligible is a project by [Makers All](https://makersall.org) to pull together the best research and ideas about the burgeoning field of machine learning intelligibility. The project is a bank shot: make machine learning/AI work better for corporations and other large organizations that have money, and then leverage that work to help communities that have been left behind by our society.
 
+- For the folks who are creating machine learning tools, help them figure out how to make machine learning more intelligible
+- For corporations, large nonprofits, and government agencies, help them build out an ecosystem across organizations so they can share knowledge, pool resources --  and also collectively work to smooth the learning curve from beginner to power user to data scientist
+- Using this ecosystem across organizations to connect large organizations to the community, so communities can also benefit. In doing so, lay the groundwork to help communities from Harlem to Harlan County [benefit from the explosion of wealth that will be created by machine learning and AI](https://toolkit.makersall.org)  over the next 20 years -- and develop a model that can be used for [other forms of emerging tech](https://toolkit.makersall.org/pages/70-civic/40-et-economy.html).
 
-_NOTE: Data Chefs is a work in progress. This is v.0.2_ ]
-
+{Need to say something about how this is just v.0.1. The main goal of the site is to just consolidate info on what's being done right now. Once that's done, will start thinking about next steps.}
 

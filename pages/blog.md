@@ -1,7 +1,8 @@
 ---
 layout: default
-title:  Datachefs Blog
-image: cupcakes-reflection.jpg
+title:  Blog
+#image: brushes-wood-1323248-pxh.jpg
+image: pencils-brushes-1043734-pxh.jpg
 permalink: /blog/
 ---
 

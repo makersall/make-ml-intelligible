@@ -1,0 +1,12 @@
+---
+title: Welcome to Making Machine Learning Intelligible!
+layout: content
+image: hand-paid-cans-36464-pxh2.jpg
+# image: toy-dinosaurs-1451431-pxh.jpg
+# image: chalk-many-818111-pxh.jpg
+# image: water-paints-1057934-pxh.jpg
+# image: cupcakes-reflection.jpg
+# image: boat-cooking.jpg
+# image: pretty-tools-1449015-pxh.jpg
+---
+
