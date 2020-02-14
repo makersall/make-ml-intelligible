@@ -1,7 +1,6 @@
 ---
 layout: content
 title: Learning Deep Learning
-permalink: /learning-deep-learning/
 image: 'learning-deep-learning.jpg'
 ---
 
