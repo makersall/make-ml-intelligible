@@ -6,13 +6,14 @@ permalink: /resources/
 ---
 
 ## My Thoughts
-- [My thoughts](/anders-dump/), to be sorted out
+- [My thoughts](../anders-dump/), to be sorted out
+
 
 
 ## Microsoft
-- possible interview questions for Jennifer are in the  [notes dump](/dump/)
-- [Jennifer talk](/dump/)
-- Notes on [Microsoft Azure](/pages/dump/microsoft-azure.html)
+- possible interview questions for Jennifer are in the  [notes dump](../dump/)
+- [Jennifer talk](../dump/)
+- Notes on [Microsoft Azure](../pages/dump/microsoft-azure.html)
    - Chris Lauren, Principle Program Manager Lead (@clauren42), Azure Machine Learning Platform
 
 

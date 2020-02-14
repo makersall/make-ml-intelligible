@@ -5,7 +5,6 @@ image: water-paints-1057934-pxh.jpg
 permalink: /concepts/
 ---
 
-<!-- - [Learning Deep Learning](/pages/concepts/learning-deep-learning.html) -->
 NOTE: here's the link to the Deep Learning [Old Site](https://aschneiderman.github.io/learn-deep-learning/)
 
 
