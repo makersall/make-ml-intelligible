@@ -1,8 +1,9 @@
 ---
-title: Welcome to Making Machine Learning Intelligible!
+# title: Welcome to Making Machine Learning Intelligible!
 layout: content
 image: hand-paid-cans-36464-pxh2.jpg
 ---
+## Welcome to Making Machine Learning Intelligible
 {Not sure what I want to say in the intro. Here's a quick-and-dirty first draft; I need to fix it up and shrink it. }
 
 Machine learning is powerful, but right now almost no one understands it. In the past 10 years, there's been an incredible explosion of work. Things that only a handful of experts could do with months of work can now be taken care of by someone with a little programming experience and a handful of lines of code. And now we are seeing even more exciting stuff happening in the form of auto ML, which promises to take away some of the mindnumbing headaches of trying to figure out which model to use and how to tune it.

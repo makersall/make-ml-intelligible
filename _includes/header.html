@@ -5,10 +5,9 @@
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
 
- 
-      <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
-      {{ site.title | escape }} &nbsp;</a>
-
+    {%- if page.layout != "home" -%}          <!-- If it isn't the homepage, display the site title -->
+      <a class="site-title" rel="author" href="{{ "/" | relative_url }}"> {{ site.title | escape }} &nbsp;</a>
+    {%- endif -%}
       
     {%- if titles_size > 0 -%}
       <nav class="site-nav">
