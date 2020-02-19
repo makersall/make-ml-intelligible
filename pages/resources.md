@@ -29,4 +29,5 @@ permalink: /resources/
 - [People and AI Research](https://research.google/teams/brain/pair/) (PAIR)
 - [Learn with Google AI](https://ai.google/education/)
 
-Test
+## Sample Data
+- [UCI ML Data Repository](https://archive.ics.uci.edu/ml/index.php)
