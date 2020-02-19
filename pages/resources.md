@@ -30,4 +30,4 @@ permalink: /resources/
 - [Learn with Google AI](https://ai.google/education/)
 
 ## Sample Data
-- [UCI ML Data Repository](https://archive.ics.uci.edu/ml/index.php)
+- [UCI’s ML Data Repository](https://archive.ics.uci.edu/ml/index.php)
