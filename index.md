@@ -1,20 +1,18 @@
 ---
-# title: Welcome to Making Machine Learning Intelligible!
+title: ‘ ‘
 layout: content
 image: hand-paid-cans-36464-pxh2.jpg
 ---
-## Welcome to Making Machine Learning Intelligible
-{Not sure what I want to say in the intro. Here's a quick-and-dirty first draft; I need to fix it up and shrink it. }
+## Welcome to Making Machine Learning Intelligible V 0.1
 
-Machine learning is powerful, but right now almost no one understands it. In the past 10 years, there's been an incredible explosion of work. Things that only a handful of experts could do with months of work can now be taken care of by someone with a little programming experience and a handful of lines of code. And now we are seeing even more exciting stuff happening in the form of auto ML, which promises to take away some of the mindnumbing headaches of trying to figure out which model to use and how to tune it.
 
-At the same time, it's become increasingly clear that just treating machine learning and AI more generally like a black box isn't going to cut it. Far from being impartial, machine learning models can be incredibly biased.
+In the past 10 years, the field of machine learning (ML) has exploded.  Many models that only top experts, spending months of work, could build can now be created by someone with a little coding experience by writing a few lines of code. And in the next few years, trends such as Auto ML may make some machine learning work even more accessible.
 
-But what's also becoming clear is that it's just too hard to understand.
+At the same time, too much of today’s ML/AI is a black box.  And the more useful & ubiquitous it becomes, the more dangerous it is that we don’t know how it’s making decisions.
 
-Making ML Intelligible is a project by [Makers All](https://makersall.org) to pull together the best research and ideas about the burgeoning field of machine learning intelligibility. The project is a bank shot: make machine learning/AI work better for corporations and other large organizations that have money, and then leverage that work to help communities that have been left behind by our society.
+Making ML Intelligible is a [Makers All](https://makersall.org) project to pull together the best research and ideas from the burgeoning field of ML intelligibility. The project is a bank shot: make ML/AI work better for corporations and other large organizations and leverage that work to help communities that have been left behind by our society.
 
-- For the folks who are creating machine learning tools, help them figure out how to make machine learning more intelligible
+- For the people and companies who are creating machine learning tools, help them figure out how to make machine learning more intelligible
 - For corporations, large nonprofits, and government agencies, help them build out an ecosystem across organizations so they can share knowledge, pool resources --  and also collectively work to smooth the learning curve from beginner to power user to data scientist
 - Using this ecosystem across organizations to connect large organizations to the community, so communities can also benefit. In doing so, lay the groundwork to help communities from Harlem to Harlan County [benefit from the explosion of wealth that will be created by machine learning and AI](https://toolkit.makersall.org)  over the next 20 years -- and develop a model that can be used for [other forms of emerging tech](https://toolkit.makersall.org/pages/70-civic/40-et-economy.html).
 
