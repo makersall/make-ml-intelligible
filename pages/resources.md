@@ -25,12 +25,19 @@ permalink: /resources/
    - [People's Mental Models](https://pair.withgoogle.com/chapter/mental-models/)
    - [Explainability](https://pair.withgoogle.com/chapter/explainability-trust/) And Trust
 
+- Sara Hooker, Google Brain: [research](https://www.sarahooker.me/research.html) w focus on vision, ML [curriculum](https://www.sarahooker.me/curriculum.html) (beta, part of the nonprofit [Delta Analytics](http://www.deltanalytics.org))
 - Google's [What-If](https://pair-code.github.io/what-if-tool/) Tool, For inspecting a machine learning model
    - Site has a bunch of links to articles, demos, etc.
    - Medium article on [how to use the What-If tool](https://towardsdatascience.com/using-what-if-tool-to-investigate-machine-learning-models-913c7d4118f)
 
 - [People and AI Research](https://research.google/teams/brain/pair/) (PAIR)
 - [Learn with Google AI](https://ai.google/education/)
+
+## Other
+- DARPA’s [Explainable AI ](https://www.darpa.mil/program/explainable-artificial-intelligence)(XAI) program
+
+## Key Papers
+- [Tim Miller](https://people.eng.unimelb.edu.au/tmiller/), Piers Howe, [Liz Sonenberg](https://people.eng.unimelb.edu.au/lizs/), “[Explainable AI: Beware of Inmates Running the Asylum, Or: How I Learnt to Stop Worrying and Love the Social and Behavioural Sciences](https://arxiv.org/abs/1712.00547).”  From research out of University of Melbourne’s [A.I. and Autonomy Lab](https://cis.unimelb.edu.au/agentlab/explainable-ai/) 
 
 ## Sample Data
 - [UCI’s ML Data Repository](https://archive.ics.uci.edu/ml/index.php)
