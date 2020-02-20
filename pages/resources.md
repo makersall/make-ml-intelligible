@@ -11,8 +11,9 @@ permalink: /resources/
 
 
 ## Microsoft
-- possible interview questions for Jennifer are in the  [notes dump](../dump/)
-- [Jennifer talk](../dump/)
+- [Jennifer Wortman Vaughan](http://www.jennwv.com) and Hanna Wallach, [A Human-Centered Agenda for Intelligible Machine Learning](http://www.jennwv.com/papers/intel-chapter.pdf)
+- [Jennifer talk](../jennifer/)
+- possible interview questions for Jennifer are in the  [notes dump](../jennifer/)
 - Notes on [Microsoft Azure](../pages/dump/microsoft-azure.html)
    - Chris Lauren, Principle Program Manager Lead (@clauren42), Azure Machine Learning Platform
 
