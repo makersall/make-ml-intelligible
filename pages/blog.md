@@ -1,7 +1,6 @@
 ---
 layout: default
 title:  Blog
-#image: brushes-wood-1323248-pxh.jpg
 image: pencils-brushes-1043734-pxh.jpg
 permalink: /blog/
 ---

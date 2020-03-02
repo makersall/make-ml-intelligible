@@ -7,13 +7,12 @@ description:  Description of this site
 navigation_links:
   - name: About
     link: 'about/'
-  - name: Concepts
-    link: 'concepts/'
+  # - name: Concepts
+  #   link: 'concepts/'
   - name: Resources
     link: 'resources/'
-  - name: Blog
-    link: 'blog/'
+  - name: Makers All
+    link: 'https://makersall.org/'
 
-  # - name: Makers All
-  #   link: 'https://makersall.org/'
-
+  # - name: Blog
+  #   link: 'blog/'
