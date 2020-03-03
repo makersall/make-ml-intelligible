@@ -1,9 +1,0 @@
-I"'<p>{NOTE: right now, most of the text is a text dumped from a fast.AI tutorial. Once I get a handle on this stuff, need to either rewrite or quote}</p>
-
-<ul>
-  <li><a href="../pages/workflow/gradient-descent.html">Gradient Descent</a>, including Stochastic Gradient Descent</li>
-  <li><a href="../pages/vocab/learning-rate.html">Learning Rate</a></li>
-  <li><a href="../pages/vocab/loss.html">Loss Rate</a> and <a href="../pages/vocab/loss.html">Loss Function</a></li>
-  <li><a href="../pages/vocab/over-under-fitting.html">Overfitting</a></li>
-</ul>
-:ET
