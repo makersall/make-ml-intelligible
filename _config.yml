@@ -3,6 +3,11 @@ author: Anders Schneiderman
 email: your-email@domain.com
 description:  Description of this site
 
+plugins:
+  - jekyll-feed
+# - jekyll-seo-tag
+
+
 # Menu data for sitewide navigation
 navigation_links:
   - name: About
