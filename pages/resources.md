@@ -34,6 +34,12 @@ permalink: /resources/
 - [People and AI Research](https://research.google/teams/brain/pair/) (PAIR)
 - [Learn with Google AI](https://ai.google/education/)
 
+## AI/ML Bias
+- [Algorithmic Fairness and Opacity Working Group](https://afog.berkeley.edu)
+- [AI Now Institute](https://ainowinstitute.org)
+- [Fairness, Accountability, and Transparency
+in Machine Learning](https://www.fatml.org)
+
 ## Other
 - DARPA’s [Explainable AI ](https://www.darpa.mil/program/explainable-artificial-intelligence)(XAI) program
 
