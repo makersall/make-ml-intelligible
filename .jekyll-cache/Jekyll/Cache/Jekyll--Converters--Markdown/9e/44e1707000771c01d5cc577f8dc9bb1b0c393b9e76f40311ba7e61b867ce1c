@@ -1,0 +1,4 @@
+I"<h3 id="imagedatabunch">ImageDataBunch.</h3>
+<p>An ImageDataBunch represents all of the data you need to build a model and there’s some factory method which try to make it really easy for you to create that data bunch - a training set, a validation set with images and labels.</p>
+
+:ET
