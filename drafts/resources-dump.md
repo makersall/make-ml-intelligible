@@ -1,3 +1,10 @@
+---
+title: 'Resources: Links to Add'
+layout: content
+image: water-paints-1057934-pxh.jpg
+---
+
+
 Been Kim, at 
 Google Brain
 https://research.google/people/106045/
