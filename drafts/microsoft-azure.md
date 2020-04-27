@@ -20,6 +20,8 @@ Microsoft:
 https://channel9.msdn.com/Shows/AI-Show/Allup-Azure-ML
 
 
+[Free trial](https://azure.microsoft.com/en-us/free/services/machine-learning/) — 12 months
+
 Chris Lauren, Principle Program Manager Lead
 (@clauren42)
 Azure Machine Learning Platform
