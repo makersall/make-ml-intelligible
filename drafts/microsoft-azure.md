@@ -5,6 +5,21 @@ image: water-paints-1057934-pxh.jpg
 ---
 NOTE: right now, most of this is directly copied from Microsoft's documentation or ad copy
 
+Microsoft:
+
+[Create, review, and deploy automated machine learning models with Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-use-automated-ml-for-ml-models)
+
+
+[What is automated machine learning (AutoML)?](https://docs.microsoft.com/en-us/azure/machine-learning/concept-automated-ml)
+
+	Apply automated ML when you want Azure Machine Learning to train and tune a model for you using the target metric you specify. Automated ML democratizes the machine learning model development process, and empowers its users, no matter their data science expertise, to identify an end-to-end machine learning pipeline for any problem.
+
+
+[Microsoft Research: Auto ML](https://www.microsoft.com/en-us/research/project/automl/)
+
+https://channel9.msdn.com/Shows/AI-Show/Allup-Azure-ML
+
+
 Chris Lauren, Principle Program Manager Lead
 (@clauren42)
 Azure Machine Learning Platform
